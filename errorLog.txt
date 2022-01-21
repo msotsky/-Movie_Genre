@@ -1,0 +1,11 @@
+Face/Off (1997) is already in the genre Action
+Hugo Pool (1997) is already in the genre Romance
+Hurricane Streets (1998) is already in the genre Drama
+problem reading line: 855
+problem reading line: 862
+Nightwatch (1997) is already in the genre Horror
+Nightwatch (1997) is already in the genre Thriller
+That Darn Cat! (1997) is already in the genre Comedy
+That Darn Cat! (1997) is already in the genre Mystery
+Money Talks (1997) is already in the genre Action
+Money Talks (1997) is already in the genre Comedy
